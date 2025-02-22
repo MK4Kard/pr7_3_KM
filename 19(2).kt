@@ -3,7 +3,7 @@ fun main() {
         println("Введите левую нижнюю точку П1")
         var x1 = readLine()!!.toDouble()
         var y1 = readLine()!!.toDouble()
-        println("Введите правую верхнюю точку П!")
+        println("Введите правую верхнюю точку П1")
         var x2 = readLine()!!.toDouble()
         var y2 = readLine()!!.toDouble()
         println("Введите левую нижнюю точку П2")
